@@ -13,4 +13,10 @@ Bikin Tourism Place App
 12 -18 Juli 2021
 Whatsapp UI Clone
 
+21 Juli 2021
+Tugas Kelompok Petpals
+- bikin desain UI
+
+
+
 
